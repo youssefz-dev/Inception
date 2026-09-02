@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by yzoullik*  
-
 # Description
 Inception is a System Administration project about containerization using Docker.  	
 
@@ -59,6 +57,3 @@ Logs — docker compose logs -f
 
 # Resources
 Reference — Docker Deep Dive by Nigel Poulton (2025 Edition)  
-
-# Usage of AI
-Documentation — AI used only for README grammar and clarity improvements  
